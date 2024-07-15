@@ -35,6 +35,7 @@ comb_data['CO2 eq Tons'] = emi_data['Total CO2 Eq']
 
 data = pd.read_csv('combined.csv')
 data['CO2 eq / MwH'] = data['Total CO2 Eq'] / data['GENERATION (MwH)'] 
+data.to_csv('combined.csv')
 
 fig = px.choropleth(data, locations=data['STATE'], locationmode="USA-states", color='CO2 eq / MwH', scope="usa")
 fig.show()
