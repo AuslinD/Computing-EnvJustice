@@ -1,0 +1,570 @@
+,YEAR,STATE,TYPE OF PRODUCER,ENERGY SOURCE,GENERATION(Megawatthours),GENERATION(TWh)
+58012,2022,AK,Total Electric Power Industry,Total,6694128.0,6.694128
+58013,2022,AK,Total Electric Power Industry,Coal,726934.0,0.726934
+58014,2022,AK,Total Electric Power Industry,Hydroelectric Conventional,1713426.0,1.713426
+58015,2022,AK,Total Electric Power Industry,Natural Gas,3229376.0,3.229376
+58016,2022,AK,Total Electric Power Industry,Other,-3245.0,-0.003245
+58017,2022,AK,Total Electric Power Industry,Petroleum,847526.0,0.847526
+58018,2022,AK,Total Electric Power Industry,Solar Thermal and Photovoltaic,0.0,0.0
+58019,2022,AK,Total Electric Power Industry,Other Biomass,40836.0,0.040836
+58020,2022,AK,Total Electric Power Industry,Wind,139276.0,0.139276
+58021,2022,AK,Total Electric Power Industry,Wood and Wood Derived Fuels,0.0,0.0
+58048,2022,AL,Total Electric Power Industry,Total,144788893.0,144.788893
+58049,2022,AL,Total Electric Power Industry,Coal,25943990.0,25.94399
+58050,2022,AL,Total Electric Power Industry,Hydroelectric Conventional,10188211.0,10.188211
+58051,2022,AL,Total Electric Power Industry,Natural Gas,62217445.0,62.217445
+58052,2022,AL,Total Electric Power Industry,Nuclear,42313657.0,42.313657
+58053,2022,AL,Total Electric Power Industry,Other Gases,4.0,4e-06
+58054,2022,AL,Total Electric Power Industry,Other,-50.0,-5e-05
+58055,2022,AL,Total Electric Power Industry,Petroleum,40917.0,0.040917
+58056,2022,AL,Total Electric Power Industry,Solar Thermal and Photovoltaic,894571.0,0.894571
+58057,2022,AL,Total Electric Power Industry,Other Biomass,42878.0,0.042878
+58058,2022,AL,Total Electric Power Industry,Wood and Wood Derived Fuels,3147269.0,3.147269
+58082,2022,AR,Total Electric Power Industry,Total,65905030.0,65.90503
+58083,2022,AR,Total Electric Power Industry,Coal,20360869.0,20.360869
+58084,2022,AR,Total Electric Power Industry,Pumped Storage,67436.0,0.067436
+58085,2022,AR,Total Electric Power Industry,Hydroelectric Conventional,3468585.0,3.468585
+58086,2022,AR,Total Electric Power Industry,Natural Gas,26037433.0,26.037433
+58087,2022,AR,Total Electric Power Industry,Nuclear,14323697.0,14.323697
+58088,2022,AR,Total Electric Power Industry,Other,4898.0,0.004898
+58089,2022,AR,Total Electric Power Industry,Petroleum,64319.0,0.064319
+58090,2022,AR,Total Electric Power Industry,Solar Thermal and Photovoltaic,736481.0,0.736481
+58091,2022,AR,Total Electric Power Industry,Other Biomass,46357.0,0.046357
+58092,2022,AR,Total Electric Power Industry,Wood and Wood Derived Fuels,794955.0,0.794955
+58123,2022,AZ,Total Electric Power Industry,Total,104698773.0,104.698773
+58124,2022,AZ,Total Electric Power Industry,Coal,13449468.0,13.449468
+58125,2022,AZ,Total Electric Power Industry,Pumped Storage,96987.0,0.096987
+58126,2022,AZ,Total Electric Power Industry,Hydroelectric Conventional,5297590.0,5.29759
+58127,2022,AZ,Total Electric Power Industry,Natural Gas,45053245.0,45.053245
+58128,2022,AZ,Total Electric Power Industry,Nuclear,31942793.0,31.942793
+58129,2022,AZ,Total Electric Power Industry,Other,-11206.0,-0.011206
+58130,2022,AZ,Total Electric Power Industry,Petroleum,32204.0,0.032204
+58131,2022,AZ,Total Electric Power Industry,Solar Thermal and Photovoltaic,7069079.0,7.069079
+58132,2022,AZ,Total Electric Power Industry,Other Biomass,18605.0,0.018605
+58133,2022,AZ,Total Electric Power Industry,Wind,1564348.0,1.564348
+58134,2022,AZ,Total Electric Power Industry,Wood and Wood Derived Fuels,185661.0,0.185661
+58161,2022,CA,Total Electric Power Industry,Total,203383857.0,203.383857
+58162,2022,CA,Total Electric Power Industry,Coal,251565.0,0.251565
+58163,2022,CA,Total Electric Power Industry,Geothermal,11180964.0,11.180964
+58164,2022,CA,Total Electric Power Industry,Pumped Storage,-155048.0,-0.155048
+58165,2022,CA,Total Electric Power Industry,Hydroelectric Conventional,17644149.0,17.644149
+58166,2022,CA,Total Electric Power Industry,Natural Gas,96371557.0,96.371557
+58167,2022,CA,Total Electric Power Industry,Nuclear,17593254.0,17.593254
+58168,2022,CA,Total Electric Power Industry,Other Gases,1411516.0,1.411516
+58169,2022,CA,Total Electric Power Industry,Other,196215.0,0.196215
+58170,2022,CA,Total Electric Power Industry,Petroleum,154953.0,0.154953
+58171,2022,CA,Total Electric Power Industry,Solar Thermal and Photovoltaic,38789352.0,38.789352
+58172,2022,CA,Total Electric Power Industry,Other Biomass,2416598.0,2.416598
+58173,2022,CA,Total Electric Power Industry,Wind,14638061.0,14.638061
+58174,2022,CA,Total Electric Power Industry,Wood and Wood Derived Fuels,2890722.0,2.890722
+58224,2022,CO,Total Electric Power Industry,Total,58044009.0,58.044009
+58225,2022,CO,Total Electric Power Industry,Coal,21723004.0,21.723004
+58226,2022,CO,Total Electric Power Industry,Pumped Storage,-21220.0,-0.02122
+58227,2022,CO,Total Electric Power Industry,Hydroelectric Conventional,1344617.0,1.344617
+58228,2022,CO,Total Electric Power Industry,Natural Gas,15445527.0,15.445527
+58229,2022,CO,Total Electric Power Industry,Other Gases,2609.0,0.002609
+58230,2022,CO,Total Electric Power Industry,Other,48090.0,0.04809
+58231,2022,CO,Total Electric Power Industry,Petroleum,27206.0,0.027206
+58232,2022,CO,Total Electric Power Industry,Solar Thermal and Photovoltaic,2400122.0,2.400122
+58233,2022,CO,Total Electric Power Industry,Other Biomass,72523.0,0.072523
+58234,2022,CO,Total Electric Power Industry,Wind,16911126.0,16.911126
+58235,2022,CO,Total Electric Power Industry,Wood and Wood Derived Fuels,90406.0,0.090406
+58271,2022,CT,Total Electric Power Industry,Total,43054099.0,43.054099
+58272,2022,CT,Total Electric Power Industry,Coal,0.0,0.0
+58273,2022,CT,Total Electric Power Industry,Pumped Storage,1309.0,0.001309
+58274,2022,CT,Total Electric Power Industry,Hydroelectric Conventional,312235.0,0.312235
+58275,2022,CT,Total Electric Power Industry,Natural Gas,24530687.0,24.530687
+58276,2022,CT,Total Electric Power Industry,Nuclear,16464167.0,16.464167
+58277,2022,CT,Total Electric Power Industry,Other,491694.0,0.491694
+58278,2022,CT,Total Electric Power Industry,Petroleum,314369.0,0.314369
+58279,2022,CT,Total Electric Power Industry,Solar Thermal and Photovoltaic,412820.0,0.41282
+58280,2022,CT,Total Electric Power Industry,Other Biomass,408715.0,0.408715
+58281,2022,CT,Total Electric Power Industry,Wind,12833.0,0.012833
+58282,2022,CT,Total Electric Power Industry,Wood and Wood Derived Fuels,105270.0,0.10527
+58312,2022,DC,Total Electric Power Industry,Total,160237.0,0.160237
+58313,2022,DC,Total Electric Power Industry,Natural Gas,80272.0,0.080272
+58314,2022,DC,Total Electric Power Industry,Petroleum,18.0,1.8e-05
+58315,2022,DC,Total Electric Power Industry,Solar Thermal and Photovoltaic,22248.0,0.022248
+58316,2022,DC,Total Electric Power Industry,Other Biomass,57699.0,0.057699
+58325,2022,DE,Total Electric Power Industry,Total,5308370.0,5.30837
+58326,2022,DE,Total Electric Power Industry,Coal,104750.0,0.10475
+58327,2022,DE,Total Electric Power Industry,Natural Gas,4749645.0,4.749645
+58328,2022,DE,Total Electric Power Industry,Other Gases,198489.0,0.198489
+58329,2022,DE,Total Electric Power Industry,Petroleum,108258.0,0.108258
+58330,2022,DE,Total Electric Power Industry,Solar Thermal and Photovoltaic,63878.0,0.063878
+58331,2022,DE,Total Electric Power Industry,Other Biomass,78973.0,0.078973
+58332,2022,DE,Total Electric Power Industry,Wind,4377.0,0.004377
+58355,2022,FL,Total Electric Power Industry,Total,258910413.0,258.910413
+58356,2022,FL,Total Electric Power Industry,Coal,15531572.0,15.531572
+58357,2022,FL,Total Electric Power Industry,Hydroelectric Conventional,230962.0,0.230962
+58358,2022,FL,Total Electric Power Industry,Natural Gas,193310100.0,193.3101
+58359,2022,FL,Total Electric Power Industry,Nuclear,30768329.0,30.768329
+58360,2022,FL,Total Electric Power Industry,Other Gases,121.0,0.000121
+58361,2022,FL,Total Electric Power Industry,Other,2402159.0,2.402159
+58362,2022,FL,Total Electric Power Industry,Petroleum,1319165.0,1.319165
+58363,2022,FL,Total Electric Power Industry,Solar Thermal and Photovoltaic,11342163.0,11.342163
+58364,2022,FL,Total Electric Power Industry,Other Biomass,1935370.0,1.93537
+58365,2022,FL,Total Electric Power Industry,Wood and Wood Derived Fuels,2070473.0,2.070473
+58403,2022,GA,Total Electric Power Industry,Total,126484633.0,126.484633
+58404,2022,GA,Total Electric Power Industry,Coal,16778383.0,16.778383
+58405,2022,GA,Total Electric Power Industry,Pumped Storage,-643048.0,-0.643048
+58406,2022,GA,Total Electric Power Industry,Hydroelectric Conventional,3176979.0,3.176979
+58407,2022,GA,Total Electric Power Industry,Natural Gas,59848731.0,59.848731
+58408,2022,GA,Total Electric Power Industry,Nuclear,34073591.0,34.073591
+58409,2022,GA,Total Electric Power Industry,Other,58278.0,0.058278
+58410,2022,GA,Total Electric Power Industry,Petroleum,517236.0,0.517236
+58411,2022,GA,Total Electric Power Industry,Solar Thermal and Photovoltaic,6947061.0,6.947061
+58412,2022,GA,Total Electric Power Industry,Other Biomass,270230.0,0.27023
+58413,2022,GA,Total Electric Power Industry,Wood and Wood Derived Fuels,5457192.0,5.457192
+58448,2022,HI,Total Electric Power Industry,Total,9337434.0,9.337434
+58449,2022,HI,Total Electric Power Industry,Coal,647758.0,0.647758
+58450,2022,HI,Total Electric Power Industry,Geothermal,208346.0,0.208346
+58451,2022,HI,Total Electric Power Industry,Hydroelectric Conventional,110081.0,0.110081
+58452,2022,HI,Total Electric Power Industry,Other Gases,0.0,0.0
+58453,2022,HI,Total Electric Power Industry,Other,258545.0,0.258545
+58454,2022,HI,Total Electric Power Industry,Petroleum,6655178.0,6.655178
+58455,2022,HI,Total Electric Power Industry,Solar Thermal and Photovoltaic,555043.0,0.555043
+58456,2022,HI,Total Electric Power Industry,Other Biomass,225506.0,0.225506
+58457,2022,HI,Total Electric Power Industry,Wind,625422.0,0.625422
+58458,2022,HI,Total Electric Power Industry,Wood and Wood Derived Fuels,51555.0,0.051555
+58488,2022,IA,Total Electric Power Industry,Total,72982198.0,72.982198
+58489,2022,IA,Total Electric Power Industry,Coal,18172126.0,18.172126
+58490,2022,IA,Total Electric Power Industry,Hydroelectric Conventional,1009833.0,1.009833
+58491,2022,IA,Total Electric Power Industry,Natural Gas,7339040.0,7.33904
+58492,2022,IA,Total Electric Power Industry,Other,-62.0,-6.2e-05
+58493,2022,IA,Total Electric Power Industry,Petroleum,93954.0,0.093954
+58494,2022,IA,Total Electric Power Industry,Solar Thermal and Photovoltaic,385799.0,0.385799
+58495,2022,IA,Total Electric Power Industry,Other Biomass,213603.0,0.213603
+58496,2022,IA,Total Electric Power Industry,Wind,45761370.0,45.76137
+58497,2022,IA,Total Electric Power Industry,Wood and Wood Derived Fuels,6535.0,0.006535
+58531,2022,ID,Total Electric Power Industry,Total,16278410.0,16.27841
+58532,2022,ID,Total Electric Power Industry,Coal,6267.0,0.006267
+58533,2022,ID,Total Electric Power Industry,Geothermal,91432.0,0.091432
+58534,2022,ID,Total Electric Power Industry,Hydroelectric Conventional,8359738.0,8.359738
+58535,2022,ID,Total Electric Power Industry,Natural Gas,4335008.0,4.335008
+58536,2022,ID,Total Electric Power Industry,Other,50508.0,0.050508
+58537,2022,ID,Total Electric Power Industry,Petroleum,52.0,5.2e-05
+58538,2022,ID,Total Electric Power Industry,Solar Thermal and Photovoltaic,533318.0,0.533318
+58539,2022,ID,Total Electric Power Industry,Other Biomass,90961.0,0.090961
+58540,2022,ID,Total Electric Power Industry,Wind,2441688.0,2.441688
+58541,2022,ID,Total Electric Power Industry,Wood and Wood Derived Fuels,369438.0,0.369438
+58570,2022,IL,Total Electric Power Industry,Total,185223322.0,185.223322
+58571,2022,IL,Total Electric Power Industry,Coal,40559217.0,40.559217
+58572,2022,IL,Total Electric Power Industry,Hydroelectric Conventional,115235.0,0.115235
+58573,2022,IL,Total Electric Power Industry,Natural Gas,19789290.0,19.78929
+58574,2022,IL,Total Electric Power Industry,Nuclear,98869581.0,98.869581
+58575,2022,IL,Total Electric Power Industry,Other Gases,264574.0,0.264574
+58576,2022,IL,Total Electric Power Industry,Other,262966.0,0.262966
+58577,2022,IL,Total Electric Power Industry,Petroleum,37579.0,0.037579
+58578,2022,IL,Total Electric Power Industry,Solar Thermal and Photovoltaic,1548365.0,1.548365
+58579,2022,IL,Total Electric Power Industry,Other Biomass,282709.0,0.282709
+58580,2022,IL,Total Electric Power Industry,Wind,23493806.0,23.493806
+58581,2022,IL,Total Electric Power Industry,Wood and Wood Derived Fuels,0.0,0.0
+58619,2022,IN,Total Electric Power Industry,Total,98054905.0,98.054905
+58620,2022,IN,Total Electric Power Industry,Coal,51384115.0,51.384115
+58621,2022,IN,Total Electric Power Industry,Hydroelectric Conventional,370827.0,0.370827
+58622,2022,IN,Total Electric Power Industry,Natural Gas,32120898.0,32.120898
+58623,2022,IN,Total Electric Power Industry,Other Gases,2144536.0,2.144536
+58624,2022,IN,Total Electric Power Industry,Other,467325.0,0.467325
+58625,2022,IN,Total Electric Power Industry,Petroleum,113805.0,0.113805
+58626,2022,IN,Total Electric Power Industry,Solar Thermal and Photovoltaic,1082280.0,1.08228
+58627,2022,IN,Total Electric Power Industry,Other Biomass,385915.0,0.385915
+58628,2022,IN,Total Electric Power Industry,Wind,9985205.0,9.985205
+58629,2022,IN,Total Electric Power Industry,Wood and Wood Derived Fuels,0.0,0.0
+58665,2022,KS,Total Electric Power Industry,Total,62197529.0,62.197529
+58666,2022,KS,Total Electric Power Industry,Coal,20229360.0,20.22936
+58667,2022,KS,Total Electric Power Industry,Hydroelectric Conventional,23668.0,0.023668
+58668,2022,KS,Total Electric Power Industry,Natural Gas,3362557.0,3.362557
+58669,2022,KS,Total Electric Power Industry,Nuclear,8981959.0,8.981959
+58670,2022,KS,Total Electric Power Industry,Other,829.0,0.000829
+58671,2022,KS,Total Electric Power Industry,Petroleum,-223550.0,-0.22355
+58672,2022,KS,Total Electric Power Industry,Solar Thermal and Photovoltaic,74391.0,0.074391
+58673,2022,KS,Total Electric Power Industry,Other Biomass,60836.0,0.060836
+58674,2022,KS,Total Electric Power Industry,Wind,29687479.0,29.687479
+58693,2022,KY,Total Electric Power Industry,Total,69147329.0,69.147329
+58694,2022,KY,Total Electric Power Industry,Coal,47053327.0,47.053327
+58695,2022,KY,Total Electric Power Industry,Hydroelectric Conventional,4529831.0,4.529831
+58696,2022,KY,Total Electric Power Industry,Natural Gas,16917627.0,16.917627
+58697,2022,KY,Total Electric Power Industry,Other,54173.0,0.054173
+58698,2022,KY,Total Electric Power Industry,Petroleum,97953.0,0.097953
+58699,2022,KY,Total Electric Power Industry,Solar Thermal and Photovoltaic,46853.0,0.046853
+58700,2022,KY,Total Electric Power Industry,Other Biomass,105024.0,0.105024
+58701,2022,KY,Total Electric Power Industry,Wood and Wood Derived Fuels,342541.0,0.342541
+58721,2022,LA,Total Electric Power Industry,Total,105504849.0,105.504849
+58722,2022,LA,Total Electric Power Industry,Coal,8172863.0,8.172863
+58723,2022,LA,Total Electric Power Industry,Hydroelectric Conventional,916066.0,0.916066
+58724,2022,LA,Total Electric Power Industry,Natural Gas,72275007.0,72.275007
+58725,2022,LA,Total Electric Power Industry,Nuclear,16164721.0,16.164721
+58726,2022,LA,Total Electric Power Industry,Other Gases,1881531.0,1.881531
+58727,2022,LA,Total Electric Power Industry,Other,715174.0,0.715174
+58728,2022,LA,Total Electric Power Industry,Petroleum,3106634.0,3.106634
+58729,2022,LA,Total Electric Power Industry,Solar Thermal and Photovoltaic,196173.0,0.196173
+58730,2022,LA,Total Electric Power Industry,Other Biomass,79784.0,0.079784
+58731,2022,LA,Total Electric Power Industry,Wood and Wood Derived Fuels,1996897.0,1.996897
+58758,2022,MA,Total Electric Power Industry,Total,21026161.0,21.026161
+58759,2022,MA,Total Electric Power Industry,Coal,0.0,0.0
+58760,2022,MA,Total Electric Power Industry,Pumped Storage,-399573.0,-0.399573
+58761,2022,MA,Total Electric Power Industry,Hydroelectric Conventional,877145.0,0.877145
+58762,2022,MA,Total Electric Power Industry,Natural Gas,15775967.0,15.775967
+58763,2022,MA,Total Electric Power Industry,Other,929797.0,0.929797
+58764,2022,MA,Total Electric Power Industry,Petroleum,756062.0,0.756062
+58765,2022,MA,Total Electric Power Industry,Solar Thermal and Photovoltaic,1934184.0,1.934184
+58766,2022,MA,Total Electric Power Industry,Other Biomass,891813.0,0.891813
+58767,2022,MA,Total Electric Power Industry,Wind,215680.0,0.21568
+58768,2022,MA,Total Electric Power Industry,Wood and Wood Derived Fuels,45086.0,0.045086
+58805,2022,MD,Total Electric Power Industry,Total,37139365.0,37.139365
+58806,2022,MD,Total Electric Power Industry,Coal,4639314.0,4.639314
+58807,2022,MD,Total Electric Power Industry,Hydroelectric Conventional,1779682.0,1.779682
+58808,2022,MD,Total Electric Power Industry,Natural Gas,13949642.0,13.949642
+58809,2022,MD,Total Electric Power Industry,Nuclear,14810684.0,14.810684
+58810,2022,MD,Total Electric Power Industry,Other,293570.0,0.29357
+58811,2022,MD,Total Electric Power Industry,Petroleum,142864.0,0.142864
+58812,2022,MD,Total Electric Power Industry,Solar Thermal and Photovoltaic,713532.0,0.713532
+58813,2022,MD,Total Electric Power Industry,Other Biomass,305614.0,0.305614
+58814,2022,MD,Total Electric Power Industry,Wind,497608.0,0.497608
+58815,2022,MD,Total Electric Power Industry,Wood and Wood Derived Fuels,6856.0,0.006856
+58847,2022,ME,Total Electric Power Industry,Total,12763920.0,12.76392
+58848,2022,ME,Total Electric Power Industry,Coal,42442.0,0.042442
+58849,2022,ME,Total Electric Power Industry,Hydroelectric Conventional,3063335.0,3.063335
+58850,2022,ME,Total Electric Power Industry,Natural Gas,4142680.0,4.14268
+58851,2022,ME,Total Electric Power Industry,Other,280464.0,0.280464
+58852,2022,ME,Total Electric Power Industry,Petroleum,274269.0,0.274269
+58853,2022,ME,Total Electric Power Industry,Solar Thermal and Photovoltaic,431687.0,0.431687
+58854,2022,ME,Total Electric Power Industry,Other Biomass,82112.0,0.082112
+58855,2022,ME,Total Electric Power Industry,Wind,2716384.0,2.716384
+58856,2022,ME,Total Electric Power Industry,Wood and Wood Derived Fuels,1730547.0,1.730547
+58889,2022,MI,Total Electric Power Industry,Total,117497052.0,117.497052
+58890,2022,MI,Total Electric Power Industry,Coal,34482187.0,34.482187
+58891,2022,MI,Total Electric Power Industry,Pumped Storage,-868131.0,-0.868131
+58892,2022,MI,Total Electric Power Industry,Hydroelectric Conventional,1385924.0,1.385924
+58893,2022,MI,Total Electric Power Industry,Natural Gas,41183784.0,41.183784
+58894,2022,MI,Total Electric Power Industry,Nuclear,26013361.0,26.013361
+58895,2022,MI,Total Electric Power Industry,Other Gases,1329565.0,1.329565
+58896,2022,MI,Total Electric Power Industry,Other,146993.0,0.146993
+58897,2022,MI,Total Electric Power Industry,Petroleum,1554886.0,1.554886
+58898,2022,MI,Total Electric Power Industry,Solar Thermal and Photovoltaic,859379.0,0.859379
+58899,2022,MI,Total Electric Power Industry,Other Biomass,784317.0,0.784317
+58900,2022,MI,Total Electric Power Industry,Wind,9151179.0,9.151179
+58901,2022,MI,Total Electric Power Industry,Wood and Wood Derived Fuels,1473609.0,1.473609
+58945,2022,MN,Total Electric Power Industry,Total,58966891.0,58.966891
+58946,2022,MN,Total Electric Power Industry,Coal,16158695.0,16.158695
+58947,2022,MN,Total Electric Power Industry,Hydroelectric Conventional,950434.0,0.950434
+58948,2022,MN,Total Electric Power Industry,Natural Gas,8736084.0,8.736084
+58949,2022,MN,Total Electric Power Industry,Nuclear,14696205.0,14.696205
+58950,2022,MN,Total Electric Power Industry,Other,307788.0,0.307788
+58951,2022,MN,Total Electric Power Industry,Petroleum,-61477.0,-0.061477
+58952,2022,MN,Total Electric Power Industry,Solar Thermal and Photovoltaic,1901260.0,1.90126
+58953,2022,MN,Total Electric Power Industry,Other Biomass,298601.0,0.298601
+58954,2022,MN,Total Electric Power Industry,Wind,15091227.0,15.091227
+58955,2022,MN,Total Electric Power Industry,Wood and Wood Derived Fuels,888074.0,0.888074
+58995,2022,MO,Total Electric Power Industry,Total,79361031.0,79.361031
+58996,2022,MO,Total Electric Power Industry,Coal,52832377.0,52.832377
+58997,2022,MO,Total Electric Power Industry,Pumped Storage,165445.0,0.165445
+58998,2022,MO,Total Electric Power Industry,Hydroelectric Conventional,1383768.0,1.383768
+58999,2022,MO,Total Electric Power Industry,Natural Gas,8151578.0,8.151578
+59000,2022,MO,Total Electric Power Industry,Nuclear,8874769.0,8.874769
+59001,2022,MO,Total Electric Power Industry,Other,0.0,0.0
+59002,2022,MO,Total Electric Power Industry,Petroleum,162962.0,0.162962
+59003,2022,MO,Total Electric Power Industry,Solar Thermal and Photovoltaic,152279.0,0.152279
+59004,2022,MO,Total Electric Power Industry,Other Biomass,70547.0,0.070547
+59005,2022,MO,Total Electric Power Industry,Wind,7524605.0,7.524605
+59006,2022,MO,Total Electric Power Industry,Wood and Wood Derived Fuels,42700.0,0.0427
+59039,2022,MS,Total Electric Power Industry,Total,67781240.0,67.78124
+59040,2022,MS,Total Electric Power Industry,Coal,5651367.0,5.651367
+59041,2022,MS,Total Electric Power Industry,Natural Gas,51719171.0,51.719171
+59042,2022,MS,Total Electric Power Industry,Nuclear,8600330.0,8.60033
+59043,2022,MS,Total Electric Power Industry,Other,0.0,0.0
+59044,2022,MS,Total Electric Power Industry,Petroleum,9149.0,0.009149
+59045,2022,MS,Total Electric Power Industry,Solar Thermal and Photovoltaic,503860.0,0.50386
+59046,2022,MS,Total Electric Power Industry,Other Biomass,9715.0,0.009715
+59047,2022,MS,Total Electric Power Industry,Wood and Wood Derived Fuels,1287647.0,1.287647
+59068,2022,MT,Total Electric Power Industry,Total,27088740.0,27.08874
+59069,2022,MT,Total Electric Power Industry,Coal,11651073.0,11.651073
+59070,2022,MT,Total Electric Power Industry,Hydroelectric Conventional,9885929.0,9.885929
+59071,2022,MT,Total Electric Power Industry,Natural Gas,728758.0,0.728758
+59072,2022,MT,Total Electric Power Industry,Other Gases,4257.0,0.004257
+59073,2022,MT,Total Electric Power Industry,Other,272422.0,0.272422
+59074,2022,MT,Total Electric Power Industry,Petroleum,464879.0,0.464879
+59075,2022,MT,Total Electric Power Industry,Solar Thermal and Photovoltaic,31611.0,0.031611
+59076,2022,MT,Total Electric Power Industry,Other Biomass,8911.0,0.008911
+59077,2022,MT,Total Electric Power Industry,Wind,4021860.0,4.02186
+59078,2022,MT,Total Electric Power Industry,Wood and Wood Derived Fuels,19041.0,0.019041
+59103,2022,NC,Total Electric Power Industry,Total,134257088.0,134.257088
+59104,2022,NC,Total Electric Power Industry,Coal,14673743.0,14.673743
+59105,2022,NC,Total Electric Power Industry,Pumped Storage,0.0,0.0
+59106,2022,NC,Total Electric Power Industry,Hydroelectric Conventional,4686291.0,4.686291
+59107,2022,NC,Total Electric Power Industry,Natural Gas,58131396.0,58.131396
+59108,2022,NC,Total Electric Power Industry,Nuclear,42644282.0,42.644282
+59109,2022,NC,Total Electric Power Industry,Other,208052.0,0.208052
+59110,2022,NC,Total Electric Power Industry,Petroleum,277752.0,0.277752
+59111,2022,NC,Total Electric Power Industry,Solar Thermal and Photovoltaic,11263943.0,11.263943
+59112,2022,NC,Total Electric Power Industry,Other Biomass,461223.0,0.461223
+59113,2022,NC,Total Electric Power Industry,Wind,546755.0,0.546755
+59114,2022,NC,Total Electric Power Industry,Wood and Wood Derived Fuels,1363651.0,1.363651
+59153,2022,ND,Total Electric Power Industry,Total,44400956.0,44.400956
+59154,2022,ND,Total Electric Power Industry,Coal,24831185.0,24.831185
+59155,2022,ND,Total Electric Power Industry,Hydroelectric Conventional,1791409.0,1.791409
+59156,2022,ND,Total Electric Power Industry,Natural Gas,1453359.0,1.453359
+59157,2022,ND,Total Electric Power Industry,Other Gases,30748.0,0.030748
+59158,2022,ND,Total Electric Power Industry,Other,15086.0,0.015086
+59159,2022,ND,Total Electric Power Industry,Petroleum,29281.0,0.029281
+59160,2022,ND,Total Electric Power Industry,Other Biomass,0.0,0.0
+59161,2022,ND,Total Electric Power Industry,Wind,16249888.0,16.249888
+59180,2022,NE,Total Electric Power Industry,Total,40692718.0,40.692718
+59181,2022,NE,Total Electric Power Industry,Coal,19945269.0,19.945269
+59182,2022,NE,Total Electric Power Industry,Hydroelectric Conventional,1057372.0,1.057372
+59183,2022,NE,Total Electric Power Industry,Natural Gas,1260182.0,1.260182
+59184,2022,NE,Total Electric Power Industry,Nuclear,5618504.0,5.618504
+59185,2022,NE,Total Electric Power Industry,Other,-105.0,-0.000105
+59186,2022,NE,Total Electric Power Industry,Petroleum,35109.0,0.035109
+59187,2022,NE,Total Electric Power Industry,Solar Thermal and Photovoltaic,73816.0,0.073816
+59188,2022,NE,Total Electric Power Industry,Other Biomass,88510.0,0.08851
+59189,2022,NE,Total Electric Power Industry,Wind,12614061.0,12.614061
+59190,2022,NE,Total Electric Power Industry,Wood and Wood Derived Fuels,0.0,0.0
+59213,2022,NH,Total Electric Power Industry,Total,18764393.0,18.764393
+59214,2022,NH,Total Electric Power Industry,Coal,305456.0,0.305456
+59215,2022,NH,Total Electric Power Industry,Hydroelectric Conventional,1201292.0,1.201292
+59216,2022,NH,Total Electric Power Industry,Natural Gas,4501923.0,4.501923
+59217,2022,NH,Total Electric Power Industry,Nuclear,10921528.0,10.921528
+59218,2022,NH,Total Electric Power Industry,Other,49858.0,0.049858
+59219,2022,NH,Total Electric Power Industry,Petroleum,445352.0,0.445352
+59220,2022,NH,Total Electric Power Industry,Solar Thermal and Photovoltaic,3908.0,0.003908
+59221,2022,NH,Total Electric Power Industry,Other Biomass,141372.0,0.141372
+59222,2022,NH,Total Electric Power Industry,Wind,482322.0,0.482322
+59223,2022,NH,Total Electric Power Industry,Wood and Wood Derived Fuels,711383.0,0.711383
+59244,2022,NJ,Total Electric Power Industry,Total,65060636.0,65.060636
+59245,2022,NJ,Total Electric Power Industry,Coal,497783.0,0.497783
+59246,2022,NJ,Total Electric Power Industry,Pumped Storage,-135854.0,-0.135854
+59247,2022,NJ,Total Electric Power Industry,Hydroelectric Conventional,5226.0,0.005226
+59248,2022,NJ,Total Electric Power Industry,Natural Gas,33394323.0,33.394323
+59249,2022,NJ,Total Electric Power Industry,Nuclear,28318800.0,28.3188
+59250,2022,NJ,Total Electric Power Industry,Other Gases,119861.0,0.119861
+59251,2022,NJ,Total Electric Power Industry,Other,518980.0,0.51898
+59252,2022,NJ,Total Electric Power Industry,Petroleum,137928.0,0.137928
+59253,2022,NJ,Total Electric Power Industry,Solar Thermal and Photovoltaic,1518495.0,1.518495
+59254,2022,NJ,Total Electric Power Industry,Other Biomass,663466.0,0.663466
+59255,2022,NJ,Total Electric Power Industry,Wind,21629.0,0.021629
+59290,2022,NM,Total Electric Power Industry,Total,40889036.0,40.889036
+59291,2022,NM,Total Electric Power Industry,Coal,13291996.0,13.291996
+59292,2022,NM,Total Electric Power Industry,Geothermal,47080.0,0.04708
+59293,2022,NM,Total Electric Power Industry,Hydroelectric Conventional,120825.0,0.120825
+59294,2022,NM,Total Electric Power Industry,Natural Gas,10978171.0,10.978171
+59295,2022,NM,Total Electric Power Industry,Other,-389.0,-0.000389
+59296,2022,NM,Total Electric Power Industry,Petroleum,18925.0,0.018925
+59297,2022,NM,Total Electric Power Industry,Solar Thermal and Photovoltaic,1980805.0,1.980805
+59298,2022,NM,Total Electric Power Industry,Other Biomass,17072.0,0.017072
+59299,2022,NM,Total Electric Power Industry,Wind,14434551.0,14.434551
+59324,2022,NV,Total Electric Power Industry,Total,42591838.0,42.591838
+59325,2022,NV,Total Electric Power Industry,Coal,2735262.0,2.735262
+59326,2022,NV,Total Electric Power Industry,Geothermal,3917131.0,3.917131
+59327,2022,NV,Total Electric Power Industry,Hydroelectric Conventional,1685783.0,1.685783
+59328,2022,NV,Total Electric Power Industry,Natural Gas,24844422.0,24.844422
+59329,2022,NV,Total Electric Power Industry,Other Gases,0.0,0.0
+59330,2022,NV,Total Electric Power Industry,Other,6097.0,0.006097
+59331,2022,NV,Total Electric Power Industry,Petroleum,9106.0,0.009106
+59332,2022,NV,Total Electric Power Industry,Solar Thermal and Photovoltaic,9029593.0,9.029593
+59333,2022,NV,Total Electric Power Industry,Other Biomass,48893.0,0.048893
+59334,2022,NV,Total Electric Power Industry,Wind,315551.0,0.315551
+59362,2022,NY,Total Electric Power Industry,Total,125185363.0,125.185363
+59363,2022,NY,Total Electric Power Industry,Coal,0.0,0.0
+59364,2022,NY,Total Electric Power Industry,Pumped Storage,-450703.0,-0.450703
+59365,2022,NY,Total Electric Power Industry,Hydroelectric Conventional,27431531.0,27.431531
+59366,2022,NY,Total Electric Power Industry,Natural Gas,60312012.0,60.312012
+59367,2022,NY,Total Electric Power Industry,Nuclear,26812164.0,26.812164
+59368,2022,NY,Total Electric Power Industry,Other Gases,0.0,0.0
+59369,2022,NY,Total Electric Power Industry,Other,990680.0,0.99068
+59370,2022,NY,Total Electric Power Industry,Petroleum,1856796.0,1.856796
+59371,2022,NY,Total Electric Power Industry,Solar Thermal and Photovoltaic,1785243.0,1.785243
+59372,2022,NY,Total Electric Power Industry,Other Biomass,1456974.0,1.456974
+59373,2022,NY,Total Electric Power Industry,Wind,4567508.0,4.567508
+59374,2022,NY,Total Electric Power Industry,Wood and Wood Derived Fuels,423160.0,0.42316
+59418,2022,OH,Total Electric Power Industry,Total,135810459.0,135.810459
+59419,2022,OH,Total Electric Power Industry,Coal,42992712.0,42.992712
+59420,2022,OH,Total Electric Power Industry,Hydroelectric Conventional,506973.0,0.506973
+59421,2022,OH,Total Electric Power Industry,Natural Gas,68864952.0,68.864952
+59422,2022,OH,Total Electric Power Industry,Nuclear,16826787.0,16.826787
+59423,2022,OH,Total Electric Power Industry,Other Gases,738294.0,0.738294
+59424,2022,OH,Total Electric Power Industry,Other,2991.0,0.002991
+59425,2022,OH,Total Electric Power Industry,Petroleum,1272605.0,1.272605
+59426,2022,OH,Total Electric Power Industry,Solar Thermal and Photovoltaic,920987.0,0.920987
+59427,2022,OH,Total Electric Power Industry,Other Biomass,308522.0,0.308522
+59428,2022,OH,Total Electric Power Industry,Wind,3154007.0,3.154007
+59429,2022,OH,Total Electric Power Industry,Wood and Wood Derived Fuels,221630.0,0.22163
+59473,2022,OK,Total Electric Power Industry,Total,84634922.0,84.634922
+59474,2022,OK,Total Electric Power Industry,Coal,8954031.0,8.954031
+59475,2022,OK,Total Electric Power Industry,Pumped Storage,-90420.0,-0.09042
+59476,2022,OK,Total Electric Power Industry,Hydroelectric Conventional,1769519.0,1.769519
+59477,2022,OK,Total Electric Power Industry,Natural Gas,36022921.0,36.022921
+59478,2022,OK,Total Electric Power Industry,Other,4328.0,0.004328
+59479,2022,OK,Total Electric Power Industry,Petroleum,28580.0,0.02858
+59480,2022,OK,Total Electric Power Industry,Solar Thermal and Photovoltaic,81415.0,0.081415
+59481,2022,OK,Total Electric Power Industry,Other Biomass,74664.0,0.074664
+59482,2022,OK,Total Electric Power Industry,Wind,37552755.0,37.552755
+59483,2022,OK,Total Electric Power Industry,Wood and Wood Derived Fuels,237129.0,0.237129
+59511,2022,OR,Total Electric Power Industry,Total,61317617.0,61.317617
+59512,2022,OR,Total Electric Power Industry,Geothermal,178846.0,0.178846
+59513,2022,OR,Total Electric Power Industry,Hydroelectric Conventional,31304316.0,31.304316
+59514,2022,OR,Total Electric Power Industry,Natural Gas,19054760.0,19.05476
+59515,2022,OR,Total Electric Power Industry,Other,35472.0,0.035472
+59516,2022,OR,Total Electric Power Industry,Petroleum,1668.0,0.001668
+59517,2022,OR,Total Electric Power Industry,Solar Thermal and Photovoltaic,1608401.0,1.608401
+59518,2022,OR,Total Electric Power Industry,Other Biomass,299535.0,0.299535
+59519,2022,OR,Total Electric Power Industry,Wind,8149188.0,8.149188
+59520,2022,OR,Total Electric Power Industry,Wood and Wood Derived Fuels,685431.0,0.685431
+59551,2022,PA,Total Electric Power Industry,Total,239261130.0,239.26113
+59552,2022,PA,Total Electric Power Industry,Coal,23929783.0,23.929783
+59553,2022,PA,Total Electric Power Industry,Pumped Storage,-741814.0,-0.741814
+59554,2022,PA,Total Electric Power Industry,Hydroelectric Conventional,2652683.0,2.652683
+59555,2022,PA,Total Electric Power Industry,Natural Gas,130163549.0,130.163549
+59556,2022,PA,Total Electric Power Industry,Nuclear,76166017.0,76.166017
+59557,2022,PA,Total Electric Power Industry,Other Gases,532586.0,0.532586
+59558,2022,PA,Total Electric Power Industry,Other,843018.0,0.843018
+59559,2022,PA,Total Electric Power Industry,Petroleum,312667.0,0.312667
+59560,2022,PA,Total Electric Power Industry,Solar Thermal and Photovoltaic,237442.0,0.237442
+59561,2022,PA,Total Electric Power Industry,Other Biomass,1254633.0,1.254633
+59562,2022,PA,Total Electric Power Industry,Wind,3572245.0,3.572245
+59563,2022,PA,Total Electric Power Industry,Wood and Wood Derived Fuels,338321.0,0.338321
+59604,2022,RI,Total Electric Power Industry,Total,7819451.0,7.819451
+59605,2022,RI,Total Electric Power Industry,Coal,0.0,0.0
+59606,2022,RI,Total Electric Power Industry,Hydroelectric Conventional,7375.0,0.007375
+59607,2022,RI,Total Electric Power Industry,Natural Gas,6963771.0,6.963771
+59608,2022,RI,Total Electric Power Industry,Other,-1147.0,-0.001147
+59609,2022,RI,Total Electric Power Industry,Petroleum,60051.0,0.060051
+59610,2022,RI,Total Electric Power Industry,Solar Thermal and Photovoltaic,361613.0,0.361613
+59611,2022,RI,Total Electric Power Industry,Other Biomass,218450.0,0.21845
+59612,2022,RI,Total Electric Power Industry,Wind,209338.0,0.209338
+59631,2022,SC,Total Electric Power Industry,Total,98709501.0,98.709501
+59632,2022,SC,Total Electric Power Industry,Coal,14243462.0,14.243462
+59633,2022,SC,Total Electric Power Industry,Pumped Storage,-870301.0,-0.870301
+59634,2022,SC,Total Electric Power Industry,Hydroelectric Conventional,2180514.0,2.180514
+59635,2022,SC,Total Electric Power Industry,Natural Gas,24143895.0,24.143895
+59636,2022,SC,Total Electric Power Industry,Nuclear,54369751.0,54.369751
+59637,2022,SC,Total Electric Power Industry,Other,41926.0,0.041926
+59638,2022,SC,Total Electric Power Industry,Petroleum,186679.0,0.186679
+59639,2022,SC,Total Electric Power Industry,Solar Thermal and Photovoltaic,2421548.0,2.421548
+59640,2022,SC,Total Electric Power Industry,Other Biomass,91385.0,0.091385
+59641,2022,SC,Total Electric Power Industry,Wood and Wood Derived Fuels,1900642.0,1.900642
+59678,2022,SD,Total Electric Power Industry,Total,17900462.0,17.900462
+59679,2022,SD,Total Electric Power Industry,Coal,1874802.0,1.874802
+59680,2022,SD,Total Electric Power Industry,Hydroelectric Conventional,4258536.0,4.258536
+59681,2022,SD,Total Electric Power Industry,Natural Gas,1424338.0,1.424338
+59682,2022,SD,Total Electric Power Industry,Other Gases,0.0,0.0
+59683,2022,SD,Total Electric Power Industry,Other,0.0,0.0
+59684,2022,SD,Total Electric Power Industry,Petroleum,16849.0,0.016849
+59685,2022,SD,Total Electric Power Industry,Solar Thermal and Photovoltaic,2071.0,0.002071
+59686,2022,SD,Total Electric Power Industry,Other Biomass,5083.0,0.005083
+59687,2022,SD,Total Electric Power Industry,Wind,10295113.0,10.295113
+59688,2022,SD,Total Electric Power Industry,Wood and Wood Derived Fuels,23670.0,0.02367
+59709,2022,TN,Total Electric Power Industry,Total,78036045.0,78.036045
+59710,2022,TN,Total Electric Power Industry,Coal,15885540.0,15.88554
+59711,2022,TN,Total Electric Power Industry,Pumped Storage,-491319.0,-0.491319
+59712,2022,TN,Total Electric Power Industry,Hydroelectric Conventional,9198077.0,9.198077
+59713,2022,TN,Total Electric Power Industry,Natural Gas,16520812.0,16.520812
+59714,2022,TN,Total Electric Power Industry,Nuclear,35635400.0,35.6354
+59715,2022,TN,Total Electric Power Industry,Other Gases,11481.0,0.011481
+59716,2022,TN,Total Electric Power Industry,Other,3623.0,0.003623
+59717,2022,TN,Total Electric Power Industry,Petroleum,146614.0,0.146614
+59718,2022,TN,Total Electric Power Industry,Solar Thermal and Photovoltaic,676977.0,0.676977
+59719,2022,TN,Total Electric Power Industry,Other Biomass,79242.0,0.079242
+59720,2022,TN,Total Electric Power Industry,Wind,14865.0,0.014865
+59721,2022,TN,Total Electric Power Industry,Wood and Wood Derived Fuels,354733.0,0.354733
+59753,2022,TX,Total Electric Power Industry,Total,525562940.0,525.56294
+59754,2022,TX,Total Electric Power Industry,Coal,85336953.0,85.336953
+59755,2022,TX,Total Electric Power Industry,Hydroelectric Conventional,620183.0,0.620183
+59756,2022,TX,Total Electric Power Industry,Natural Gas,256139770.0,256.13977
+59757,2022,TX,Total Electric Power Industry,Nuclear,41606955.0,41.606955
+59758,2022,TX,Total Electric Power Industry,Other Gases,2430175.0,2.430175
+59759,2022,TX,Total Electric Power Industry,Other,353247.0,0.353247
+59760,2022,TX,Total Electric Power Industry,Petroleum,373506.0,0.373506
+59761,2022,TX,Total Electric Power Industry,Solar Thermal and Photovoltaic,22442378.0,22.442378
+59762,2022,TX,Total Electric Power Industry,Other Biomass,321919.0,0.321919
+59763,2022,TX,Total Electric Power Industry,Wind,114786903.0,114.786903
+59764,2022,TX,Total Electric Power Industry,Wood and Wood Derived Fuels,1150952.0,1.150952
+59805,2022,US-Total,Total Electric Power Industry,Total,4230672233.0,4230.672233
+59806,2022,US-Total,Total Electric Power Industry,Coal,831511612.0,831.511612
+59807,2022,US-Total,Total Electric Power Industry,Geothermal,16086929.0,16.086929
+59808,2022,US-Total,Total Electric Power Industry,Pumped Storage,-6027858.0,-6.027858
+59809,2022,US-Total,Total Electric Power Industry,Hydroelectric Conventional,254788667.0,254.788667
+59810,2022,US-Total,Total Electric Power Industry,Natural Gas,1687066716.0,1687.066716
+59811,2022,US-Total,Total Electric Power Industry,Nuclear,771537176.0,771.537176
+59812,2022,US-Total,Total Electric Power Industry,Other Gases,11722290.0,11.72229
+59813,2022,US-Total,Total Electric Power Industry,Other,11114220.0,11.11422
+59814,2022,US-Total,Total Electric Power Industry,Petroleum,22931242.0,22.931242
+59815,2022,US-Total,Total Electric Power Industry,Solar Thermal and Photovoltaic,143796904.0,143.796904
+59816,2022,US-Total,Total Electric Power Industry,Other Biomass,16383408.0,16.383408
+59817,2022,US-Total,Total Electric Power Industry,Wind,434297358.0,434.297358
+59818,2022,US-Total,Total Electric Power Industry,Wood and Wood Derived Fuels,35463567.0,35.463567
+59879,2022,UT,Total Electric Power Industry,Total,39386043.0,39.386043
+59880,2022,UT,Total Electric Power Industry,Coal,22390218.0,22.390218
+59881,2022,UT,Total Electric Power Industry,Geothermal,463130.0,0.46313
+59882,2022,UT,Total Electric Power Industry,Hydroelectric Conventional,595358.0,0.595358
+59883,2022,UT,Total Electric Power Industry,Natural Gas,11107087.0,11.107087
+59884,2022,UT,Total Electric Power Industry,Other Gases,3024.0,0.003024
+59885,2022,UT,Total Electric Power Industry,Other,145667.0,0.145667
+59886,2022,UT,Total Electric Power Industry,Petroleum,31039.0,0.031039
+59887,2022,UT,Total Electric Power Industry,Solar Thermal and Photovoltaic,3853259.0,3.853259
+59888,2022,UT,Total Electric Power Industry,Other Biomass,73821.0,0.073821
+59889,2022,UT,Total Electric Power Industry,Wind,723439.0,0.723439
+59919,2022,VA,Total Electric Power Industry,Total,89477325.0,89.477325
+59920,2022,VA,Total Electric Power Industry,Coal,3346073.0,3.346073
+59921,2022,VA,Total Electric Power Industry,Pumped Storage,-1501756.0,-1.501756
+59922,2022,VA,Total Electric Power Industry,Hydroelectric Conventional,1137050.0,1.13705
+59923,2022,VA,Total Electric Power Industry,Natural Gas,48801987.0,48.801987
+59924,2022,VA,Total Electric Power Industry,Nuclear,28197337.0,28.197337
+59925,2022,VA,Total Electric Power Industry,Other,522849.0,0.522849
+59926,2022,VA,Total Electric Power Industry,Petroleum,651867.0,0.651867
+59927,2022,VA,Total Electric Power Industry,Solar Thermal and Photovoltaic,4625769.0,4.625769
+59928,2022,VA,Total Electric Power Industry,Other Biomass,947509.0,0.947509
+59929,2022,VA,Total Electric Power Industry,Wind,50852.0,0.050852
+59930,2022,VA,Total Electric Power Industry,Wood and Wood Derived Fuels,2697788.0,2.697788
+59969,2022,VT,Total Electric Power Industry,Total,2183829.0,2.183829
+59970,2022,VT,Total Electric Power Industry,Hydroelectric Conventional,1140686.0,1.140686
+59971,2022,VT,Total Electric Power Industry,Natural Gas,1499.0,0.001499
+59972,2022,VT,Total Electric Power Industry,Other,2867.0,0.002867
+59973,2022,VT,Total Electric Power Industry,Petroleum,5265.0,0.005265
+59974,2022,VT,Total Electric Power Industry,Solar Thermal and Photovoltaic,202125.0,0.202125
+59975,2022,VT,Total Electric Power Industry,Other Biomass,54986.0,0.054986
+59976,2022,VT,Total Electric Power Industry,Wind,409185.0,0.409185
+59977,2022,VT,Total Electric Power Industry,Wood and Wood Derived Fuels,367216.0,0.367216
+59998,2022,WA,Total Electric Power Industry,Total,116690498.0,116.690498
+59999,2022,WA,Total Electric Power Industry,Coal,3565972.0,3.565972
+60000,2022,WA,Total Electric Power Industry,Pumped Storage,10152.0,0.010152
+60001,2022,WA,Total Electric Power Industry,Hydroelectric Conventional,78916435.0,78.916435
+60002,2022,WA,Total Electric Power Industry,Natural Gas,14532322.0,14.532322
+60003,2022,WA,Total Electric Power Industry,Nuclear,9851535.0,9.851535
+60004,2022,WA,Total Electric Power Industry,Other Gases,255295.0,0.255295
+60005,2022,WA,Total Electric Power Industry,Other,58034.0,0.058034
+60006,2022,WA,Total Electric Power Industry,Petroleum,43723.0,0.043723
+60007,2022,WA,Total Electric Power Industry,Solar Thermal and Photovoltaic,83298.0,0.083298
+60008,2022,WA,Total Electric Power Industry,Other Biomass,97971.0,0.097971
+60009,2022,WA,Total Electric Power Industry,Wind,8060912.0,8.060912
+60010,2022,WA,Total Electric Power Industry,Wood and Wood Derived Fuels,1214849.0,1.214849
+60042,2022,WI,Total Electric Power Industry,Total,61244310.0,61.24431
+60043,2022,WI,Total Electric Power Industry,Coal,21922948.0,21.922948
+60044,2022,WI,Total Electric Power Industry,Hydroelectric Conventional,1990975.0,1.990975
+60045,2022,WI,Total Electric Power Industry,Natural Gas,23276428.0,23.276428
+60046,2022,WI,Total Electric Power Industry,Nuclear,10077018.0,10.077018
+60047,2022,WI,Total Electric Power Industry,Other,22215.0,0.022215
+60048,2022,WI,Total Electric Power Industry,Petroleum,175115.0,0.175115
+60049,2022,WI,Total Electric Power Industry,Solar Thermal and Photovoltaic,810124.0,0.810124
+60050,2022,WI,Total Electric Power Industry,Other Biomass,383226.0,0.383226
+60051,2022,WI,Total Electric Power Industry,Wind,1815722.0,1.815722
+60052,2022,WI,Total Electric Power Industry,Wood and Wood Derived Fuels,770538.0,0.770538
+60092,2022,WV,Total Electric Power Industry,Total,56665360.0,56.66536
+60093,2022,WV,Total Electric Power Industry,Coal,50717502.0,50.717502
+60094,2022,WV,Total Electric Power Industry,Hydroelectric Conventional,1647262.0,1.647262
+60095,2022,WV,Total Electric Power Industry,Natural Gas,2110475.0,2.110475
+60096,2022,WV,Total Electric Power Industry,Other Gases,35002.0,0.035002
+60097,2022,WV,Total Electric Power Industry,Other,-12343.0,-0.012343
+60098,2022,WV,Total Electric Power Industry,Petroleum,150365.0,0.150365
+60099,2022,WV,Total Electric Power Industry,Other Biomass,10202.0,0.010202
+60100,2022,WV,Total Electric Power Industry,Wind,2006895.0,2.006895
+60118,2022,WY,Total Electric Power Industry,Total,46347492.0,46.347492
+60119,2022,WY,Total Electric Power Industry,Coal,33517896.0,33.517896
+60120,2022,WY,Total Electric Power Industry,Hydroelectric Conventional,744746.0,0.744746
+60121,2022,WY,Total Electric Power Industry,Natural Gas,1661254.0,1.661254
+60122,2022,WY,Total Electric Power Industry,Other Gases,328622.0,0.328622
+60123,2022,WY,Total Electric Power Industry,Other,75894.0,0.075894
+60124,2022,WY,Total Electric Power Industry,Petroleum,53030.0,0.05303
+60125,2022,WY,Total Electric Power Industry,Solar Thermal and Photovoltaic,185909.0,0.185909
+60126,2022,WY,Total Electric Power Industry,Wind,9780141.0,9.780141
