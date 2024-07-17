@@ -1,6 +1,5 @@
 import plotly.express as px
 import pandas as pd
-import numpy as np
 
 data = pd.read_csv('combined.csv')
 data['CO2 eq (Metric Tons) / MwH'] = data['Total CO2 Eq'] / data['GENERATION (MwH)'] 
