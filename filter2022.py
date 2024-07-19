@@ -2,7 +2,9 @@ import plotly.express as px
 import pandas as pd
 import numpy as np
 
-gen_data = pd.read_excel('/home/austin/Downloads/annual_generation_state.xlsx')
+file_path = '/home/austin/Downloads/annual_generation_state.xlsx'
+
+gen_data = pd.read_excel(file_path)
 #print(data.columns)
 
 gen_data = gen_data[(gen_data.YEAR == 2022)]
