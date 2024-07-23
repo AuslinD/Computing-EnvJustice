@@ -1,7 +1,98 @@
+
 # Computing-EnvJustice
 
-This repository contains the code and necessary files to generate helpful datasets and figures for my research on the environmental costs of data centers. The python file 'USStatesMap.py' uses the data from 'combined.csv' (which is data from US EIA on electricity generation and carbon output) to draw a plot using pandas and plotly. 'filter2022.py' removes data from before 2022 from the US EIA dataset on electricity generation and then plots the energy generation of each state.
-The file 'ShapefileTesting.py' is currently being edited to make a map using hydrologic codes. Currently, it only displays a section of Arizona
+This repository contains the code and necessary files to generate helpful datasets and figures for my research on the environmental costs of data centers. To run a file, download or install the associated files and dependencies listed below.
+
+
+## USStatesMap.py
+
+This program will generate a chloropleth map of the Energy Generation Efficiency of states in the United States based on info from the EIA. 
+
+### Necessary Files
+
+ - USStatesMap.py
+ - combined.csv 
+
+### Dependencies
+
+USStatesMap.py has the following dependencies:
+ - Plotly
+ - Pandas
+These can be installed with the following, repectively
+
+```bash
+pip install plotly
+```
+
+```bash
+pip install pandas
+```
+
+### Running the Program
+
+Navigate to the location of USStatesMap.py and run it using:
+
+```bash
+python3 USStatesMap.py
+```
+
+## filter2022.py
+This file plots specifically the 2022 energy generation data of each state from the EIA on a choropleth map. It also generates a csv file with the data and saves it.
+
+### Necessary files
+ - annual_generation_state.xlsx
+ - filtered_generation_2022.csv
+
+### Dependencies
+
+filter2022.py has the follwing dependencies:
+ - plotly
+ - pandas
+These can be installed with the following, repectively
+
+```bash
+pip install plotly
+```
+
+```bash
+pip install pandas
+```
+
+### Running the Program
+
+Navigate to the location of filter2022.py and run it using:
+
+```bash
+python3 filter2022.py
+```
+
+## ShapefileTesting.py 
+This file is a work in progress to display the 8-digit Hydrologic Unit Codes of the US. These are used to distinguish between water subbasins.
+
+### Dependencies
+ShapefileTesting.py has the follwing dependencies:
+ - geopandas
+ - pyshp
+ - matplotlib
+These can be installed with the following, repectively
+
+```bash
+pip install geopandas
+```
+
+```bash
+pip install pyshp
+```
+
+```bash
+pip install matplotlib
+```
+
+Navigate to the location of ShapefileTesting.py and run it using:
+
+```bash
+python3 ShapefileTesting.py
+```
 
 
 The full main project has a broader scope, and is exploring the environmental costs of the increasing demand for data centers. There may be more files added depending on what kind of figures are needed or helpful for displaying the research done.
