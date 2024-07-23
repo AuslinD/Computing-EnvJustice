@@ -73,6 +73,9 @@ This file is a work in progress to display the 8-digit Hydrologic Unit Codes of 
 
 ### Necessary Files
  - ShapefileTesting.py
+ - WBDHU8.prj
+ - WBDHU8.shp
+ - WBDHU8.shx
 
 ### Dependencies
 ShapefileTesting.py has the follwing dependencies:
