@@ -49,6 +49,7 @@ This file plots specifically the 2022 energy generation data of each state from 
 filter2022.py has the follwing dependencies:
  - plotly
  - pandas
+ <!-- -->
 These can be installed with the following, repectively
 
 ```bash
@@ -78,6 +79,7 @@ ShapefileTesting.py has the follwing dependencies:
  - geopandas
  - pyshp
  - matplotlib
+ <!-- -->
 These can be installed with the following, repectively
 
 ```bash
