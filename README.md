@@ -17,7 +17,7 @@ This program will generate a chloropleth map of the Energy Generation Efficiency
 
 USStatesMap.py has the following dependencies:
  - Plotly
- - Pandas
+ - Pandas\
 These can be installed with the following, repectively
 
 ```bash
@@ -69,6 +69,9 @@ python3 filter2022.py
 ## ShapefileTesting.py 
 This file is a work in progress to display the 8-digit Hydrologic Unit Codes of the US. These are used to distinguish between water subbasins.
 
+### Necessary Files
+ - ShapefileTesting.py
+
 ### Dependencies
 ShapefileTesting.py has the follwing dependencies:
  - geopandas
@@ -87,6 +90,8 @@ pip install pyshp
 ```bash
 pip install matplotlib
 ```
+
+### Running the file
 
 Navigate to the location of ShapefileTesting.py and run it using:
 
