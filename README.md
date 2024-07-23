@@ -37,11 +37,11 @@ python3 USStatesMap.py
 ```
 
 ## filter2022.py
-This file plots specifically the 2022 energy generation data of each state from the EIA on a choropleth map. It also generates a csv file with the data and saves it.
+This file plots specifically the 2022 energy generation data of each state from the EIA on a choropleth map. It also generates a csv file with the data and saves it as 'filtered_generation_2022.csv'.
 
 ### Necessary files
  - annual_generation_state.xlsx
- - filtered_generation_2022.csv
+ - filter2022.py
 
 ### Dependencies
 
