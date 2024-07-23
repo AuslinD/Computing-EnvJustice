@@ -17,7 +17,8 @@ This program will generate a chloropleth map of the Energy Generation Efficiency
 
 USStatesMap.py has the following dependencies:
  - Plotly
- - Pandas\
+ - Pandas
+[//]: # formatting comment
 These can be installed with the following, repectively
 
 ```bash
