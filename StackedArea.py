@@ -25,12 +25,23 @@ pivot_df = pivot_df[ordered_columns]
 
 pivot_df.plot(kind='area', stacked=True)
 
+
+
+
 plt.title('Stacked Area Chart of Energy Generation by Source')
 plt.xlabel('Year')
 plt.ylabel('Generation (Megawatthours)')
 plt.legend(title='Energy Source')
 plt.grid(True)
 
+plt.xticks(fontsize=14)
+plt.yticks(fontsize=14)
 
-#plt.tight_layout()
+plt.rc('font', size=14)  
+plt.rc('axes', titlesize=14)
+plt.rc('axes', labelsize=14)
+plt.rc('xtick', labelsize=14)
+plt.rc('ytick', labelsize=14)
+
+plt.tight_layout()
 plt.show()
