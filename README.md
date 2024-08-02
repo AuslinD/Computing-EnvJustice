@@ -138,6 +138,22 @@ Navigate to the location of USStatesMap.py and run it using:
 python3 USStatesMap.py
 ```
 
+## AustinDeng_DataCenterSustainability.tex
+
+This file is the LaTeX code for the research paper for this project.
+
+### Necessary Files
+
+ - AustinDeng_DataCenterSustainability.tex
+ - projection.png
+
+### Compiling the Project
+
+Navigate to the location of AustinDeng_DataCenterSustainability.tex and compile using pdflatex:
+
+```bash
+pdflatex AustinDeng_DataCenterSustainability.tex
+```
 
 The full main project has a broader scope, and is exploring the environmental costs of the increasing demand for data centers. There may be more files added depending on what kind of figures are needed or helpful for displaying the research done.
 
