@@ -1,7 +1,7 @@
 
 # Computing-EnvJustice
 
-This repository contains the code and necessary files to generate helpful datasets and figures for my research on the environmental costs of data centers. To run a file, download or install the associated files and dependencies listed below. The files for the project are organized into three folders:
+This repository contains the code and necessary files to generate helpful datasets and figures for my research on the environmental costs of data centers. To run a program, download or install the associated files and dependencies listed below. The files for my project are organized into three folders:
  - Data
  - PythonPrograms
  - ResearchPaper
@@ -179,5 +179,5 @@ pdflatex AustinDeng_DataCenterSustainability.tex
 
 ## The Project
 
-The full main project has a broader scope, and is exploring the environmental costs of the increasing demand for data centers. There may be more files added depending on what kind of figures are needed or helpful for displaying the research done.
+The full main project has a broader scope, and is exploring the carbon and water costs of the increasing demand for data centers. My research paper, which can be found in the ResearchPaper folder extensively details my work. There may be more files added depending on what kind of figures are needed or helpful for displaying what I've researched.
 
