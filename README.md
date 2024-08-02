@@ -147,7 +147,7 @@ This file is the LaTeX code for the research paper for this project.
  - AustinDeng_DataCenterSustainability.tex
  - projection.png
 
-### Compiling the Project
+### Compiling and Creating PDF
 
 Navigate to the location of AustinDeng_DataCenterSustainability.tex and compile using pdflatex:
 
