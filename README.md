@@ -154,7 +154,7 @@ python3 USStatesMap.py
 
 ## ResearchPaper
 
-The ResearchPaper folder contains my research paper for this project as a LaTeX file. In order to compile this file and convert it to a pdf, follow the instructions listed further below. 
+The ResearchPaper folder contains my research paper for this project as a LaTeX file. In order to compile this file and convert it to a pdf, ensure the the necessary files are in the same directory and follow the instructions listed below. 
 
 
 
