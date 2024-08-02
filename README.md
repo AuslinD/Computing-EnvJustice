@@ -4,39 +4,6 @@
 This repository contains the code and necessary files to generate helpful datasets and figures for my research on the environmental costs of data centers. To run a file, download or install the associated files and dependencies listed below.
 
 
-## USStatesMap.py
-
-This program will generate a chloropleth map of the Energy Generation Efficiency of states in the United States based on info from the EIA. 
-
-### Necessary Files
-
- - USStatesMap.py
- - combined.csv 
-
-### Dependencies
-
-USStatesMap.py has the following dependencies:
- - plotly
- - pandas
-<!-- -->
-These can be installed with the following, repectively
-
-```bash
-pip install plotly
-```
-
-```bash
-pip install pandas
-```
-
-### Running the Program
-
-Navigate to the location of USStatesMap.py and run it using:
-
-```bash
-python3 USStatesMap.py
-```
-
 ## filter2022.py
 This file plots specifically the 2022 energy generation data of each state from the EIA on a choropleth map. It also generates a csv file with the data and saves it as 'filtered_generation_2022.csv'.
 
@@ -103,6 +70,72 @@ Navigate to the location of ShapefileTesting.py and run it using:
 
 ```bash
 python3 ShapefileTesting.py
+```
+
+
+## StackedArea.py
+This program generates a stacked area chart of Arizona's energy production from 2022.
+
+### Necessary Files
+ - StackedArea.py
+ - ArizonaOverTime.csv
+
+### Dependencies
+
+StackedArea.py has the following dependencies:
+ - matplotlib
+ - pandas
+ <!-- -->
+ These can be installed with the following, respectively
+
+```bash
+pip install matplotlib
+```
+
+```bash
+pip install pandas
+```
+
+### Running the file
+
+Navigate to the location of StackedArea.py and run it using
+
+```bash
+python3 StackedArea.py
+```
+
+
+## USStatesMap.py
+
+This program will generate a chloropleth map of the Energy Generation Efficiency of states in the United States based on info from the EIA. 
+
+### Necessary Files
+
+ - USStatesMap.py
+ - combined.csv 
+
+### Dependencies
+
+USStatesMap.py has the following dependencies:
+ - plotly
+ - pandas
+<!-- -->
+These can be installed with the following, respectively
+
+```bash
+pip install plotly
+```
+
+```bash
+pip install pandas
+```
+
+### Running the Program
+
+Navigate to the location of USStatesMap.py and run it using:
+
+```bash
+python3 USStatesMap.py
 ```
 
 
